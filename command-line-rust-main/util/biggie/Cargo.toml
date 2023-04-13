@@ -1,0 +1,9 @@
+[package]
+name = "biggie"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "2.33"
+rand = "0.8"
+thousands = "0.2"
